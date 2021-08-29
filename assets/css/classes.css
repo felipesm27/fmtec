@@ -1,0 +1,42 @@
+
+  .main-bg {
+    background-image: url('../img/teste.jpg');
+    background-size: cover;
+    background-position: center center;
+    color: var(--white-color);
+  }
+
+  .main-bg-dicas {
+    background-image: url('../img/main-bg.svg');
+    background-size: cover;
+    background-position: center center;
+    color: var(--white-color);
+  }
+
+  .colpreco h2{
+    color: var(--secondary-color);
+  }
+  
+  .white-bg {
+    background: var(--white-color);
+    color: var(--secondary-color);
+  }
+  .white-bg p{
+    color: var(--primary-color);
+  }
+  
+  .main-content {
+    max-width: 120rem;
+    margin: 0 auto;
+    padding: var(--gap);
+  }
+  
+  .section {
+    min-height: 100vh;
+  }
+
+  .menu-spacing {
+      height: 65px;
+  }
+
+  

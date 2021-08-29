@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2rem;
+  color: var(--primary-color);
+  line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  font-size: 6rem;
+  text-transform: uppercase;
+}
+
+h1 {
+  font-size: 6rem;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 6rem;
+  margin-bottom: 5rem;
+  text-transform: uppercase;
+  line-height: 1.2;
+}
+
+h3 {
+  font-size: 5rem;
+}
+
+h4 {
+  font-size: 4.5rem;
+}
+
+h5 {
+  font-size: 4rem;
+}
+
+h6 {
+  font-size: 3.5rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  margin-bottom: 3rem;
+}
+/* 
+<article>
+<h3>Rapidez no processamento</h3>
+<p>Essa é com certeza uma das características mais marcantes dessa tecnologia. O SSD é extremamente mais rápido que um HD, em alguns casos ele chega a ser 100x mais rápido para abrir e acessar arquivos.</p>
+</article>
+<article>
+  <h3>Economia energia</h3>
+<p>O SSD não possui partes mecânicas que precisam ficar em constante movimento, por isso ele consome bem menos energia para funcionar do que um HD. É por essa razão que ele ajuda a economizar a bateria do seu notebook. Como o SSD não tem partes em movimento, ele também não emite nenhum som de funcionamento.</p>
+</article>
+<article>
+  <h3>Temperatura equilibrada</h3>
+<p>Como um HD possui parte mecânicas que estão sempre em movimento ele tem a tendência a esquentar com muita facilidade, isso provoca um aumento de temperatura geral na máquina. Já o SSD, que não precisa ficar em constante movimento, é capaz de manter uma temperatura mais consistente sem causar problemas de aquecimento.</p>
+</article> */
